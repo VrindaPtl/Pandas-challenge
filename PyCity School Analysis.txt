@@ -1,0 +1,13 @@
+PyCity School Analysis
+
+•	There are 15 schools with a total of 39,170 students, categorized into two types.
+•	The overall pass percentage of students in these schools is 72.81%, with a total budget of $24,649,428.00. 
+•	The top 5 performing schools are Cabrera High School, Thomas High School, Griffin High School, Wilson High School, and Pena High School—all charter schools. 
+•	The bottom 5 performing schools are Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School—all district schools. 
+•	Each school maintains consistent passing percentages across all grades. 
+•	Per capita spending ranges up to $680 with no direct correlation to pass rates.
+•	Large district schools house up to 5000 students, while smaller to medium schools outperform large schools in pass rates.
+
+The analysis from the provided text indicates that the spending ranges do not directly correlate with the overall pass percentage of students. Smaller to medium-sized schools outperform large schools in achieving overall passing percentages. The top five performing schools are all charter schools. 
+To improve school performance, increasing the per-student budget may not guarantee improvements; instead, directing the budget towards appropriate resources could enhance overall performance. 
+Additionally, reducing the size of large schools may yield better outcomes, and implementing successful practices from charter schools into district schools could lead to improvements in overall passing rates.
